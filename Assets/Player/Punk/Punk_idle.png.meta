@@ -116,7 +116,11 @@ TextureImporter:
         x: 0
         y: 0
         width: 24
+<<<<<<< Updated upstream
         height: 48
+=======
+        height: 36
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +128,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: d6af68a52e740614eaba31d158851166
       internalID: 881187528
+=======
+      spriteID: f082e79352553184589f338d5f27d5a8
+      internalID: 1665809626
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -137,7 +146,11 @@ TextureImporter:
         x: 48
         y: 0
         width: 24
+<<<<<<< Updated upstream
         height: 48
+=======
+        height: 36
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,8 +158,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 7163dff9968001a45b77a5a6c98b036c
       internalID: -49638721
+=======
+      spriteID: 34658df1b3639c44e96ff79291ee7110
+      internalID: 1079494675
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -158,7 +176,11 @@ TextureImporter:
         x: 96
         y: 0
         width: 24
+<<<<<<< Updated upstream
         height: 48
+=======
+        height: 36
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +188,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 06aecb67b658fbc44a9a179ffff2fc3b
       internalID: -774622640
+=======
+      spriteID: a8d5220fe328bdd459fbd09e2c187b00
+      internalID: -910535801
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -179,7 +206,11 @@ TextureImporter:
         x: 144
         y: 0
         width: 24
+<<<<<<< Updated upstream
         height: 48
+=======
+        height: 36
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,8 +218,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 4c232d6334207ce4c893307e2cd0d24d
       internalID: 1386920153
+=======
+      spriteID: 318a70b0dc327b54f98e9053fe498d48
+      internalID: 1589586278
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -204,10 +240,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+<<<<<<< Updated upstream
       Punk_idle_0: 881187528
       Punk_idle_1: -49638721
       Punk_idle_2: -774622640
       Punk_idle_3: 1386920153
+=======
+      Punk_idle_0: 1665809626
+      Punk_idle_1: 1079494675
+      Punk_idle_2: -910535801
+      Punk_idle_3: 1589586278
+>>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
